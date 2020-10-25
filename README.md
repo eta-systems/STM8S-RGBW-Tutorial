@@ -59,6 +59,8 @@ Libraries also contain templates and example code.
 
 ![add_include_paths.png](images/add_include_paths.png)
 
+![include_paths.png](images/include_paths.png)
+
 - select the correct MCU:
 
 ![select_mcu.png](images/select_mcu.png)
